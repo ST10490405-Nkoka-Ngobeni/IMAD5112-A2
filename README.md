@@ -1,7 +1,11 @@
 # IMAD5112-A2
 IMAD Assignment 2
 
+GitHub Link: 
 https://github.com/ST10490405-Nkoka-Ngobeni/IMAD5112-A2.git
+
+Youtube link:
+https://youtu.be/9N8tZkCQHzU 
 
 I developed a simple educational quiz app to help users test and improve their knowledge of history through a series of true or false questions. Users answer each question by selecting “True” or “False” and receive immediate feedback on their answers. The app tracks the user’s score throughout the quiz and displays a summary with personalized encouragement at the end. Additionally, users can review all the questions and their correct answers to reinforce learning. The app provides an intuitive and engaging way to learn historical facts, making it ideal for students and history enthusiasts alike.
 
@@ -25,7 +29,8 @@ Provides a button to exit the app cleanly from the review screen.
 9.	Persistent Data Transfer Between Screens
 Transfers the score and question data between activities for consistent user experience.
 10.	User-Friendly UI Controls
-Hides answer buttons and question text after quiz completion and only displays the "Next" button to proceed, simplifying the interface.
+Hides answer buttons and question text after quiz completion and only displays the "Next" button to proceed, simplifying the in![Uploading Screenshot 2025-05-26 235949.png…]()
+terface.
 
 
 Utilizing GitHub
@@ -38,10 +43,6 @@ To manage our project using Git Bash, we will first close all projects in GitHub
 6. git pull origin main --allow-unrelated-histories
 7. git push origin main
 When you're done with the commands you've now have submitted on GitHub
-
-
-Youtube link:
-https://youtu.be/9N8tZkCQHzU 
 
 
 Screenshots:
