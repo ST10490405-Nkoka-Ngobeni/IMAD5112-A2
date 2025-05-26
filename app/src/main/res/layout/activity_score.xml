@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp"
+    android:background="@drawable/chalkboard">
+
+    <TextView
+        android:id="@+id/txtmessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textColor="@color/white"/>
+
+    <TextView
+        android:id="@+id/txtfeed"
+        android:layout_width="162dp"
+        android:layout_height="48dp"
+        android:text=""
+        android:textAlignment="center"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColor="@color/white"/>
+
+    <Button
+        android:id="@+id/btnreview"
+        android:layout_width="204dp"
+        android:layout_height="67dp"
+        android:text="REVIEW"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:backgroundTint="@color/blue"/>
+
+
+</LinearLayout>
